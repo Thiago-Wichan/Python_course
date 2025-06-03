@@ -1,0 +1,30 @@
+Error: qualquer coisa (LogFileMixin) LogFileMixin
+Error: qualquer coisa LogFileMixin
+Error: qualquer coisa LogFileMixin
+Sucess: Deu certo LogFileMixin
+Error: qualquer coisa LogFileMixin
+Sucess: Deu certo LogFileMixin
+Error: qualquer coisa LogFileMixin
+Sucess: Deu certo LogFileMixin
+Error: qualquer coisa LogFileMixin
+Sucess: Deu certo LogFileMixin
+Sucess: iPhone is on Smartphone
+Sucess: iPhone is on Smartphone
+Sucess: Samsung S24 is on Smartphone
+Error: qualquer coisa
+Sucess: Deu certo
+Error: qualquer coisa
+Sucess: Deu certo
+Error: qualquer coisa LogFileMixin
+Sucess: Deu certo LogFileMixin
+Sucess: iPhone is on Smartphone
+Sucess: Samsung S24 is on Smartphone
+Sucess: iPhone is on
+Sucess: Samsung S24 is on
+Sucess: iPhone is on
+Sucess: iPhone is on
+Error: Samsung S24 is off
+Sucess: iPhone is on
+Sucess: Samsung S24 is on
+Sucess: iPhone is on
+Error: Samsung S24 is off
