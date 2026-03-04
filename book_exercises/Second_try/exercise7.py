@@ -6,3 +6,4 @@ def printASCIITable():
 
 
 printASCIITable()
+print('Muita fé')
