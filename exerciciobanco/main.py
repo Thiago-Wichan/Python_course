@@ -34,7 +34,7 @@ class Current(Account):
         self.value = value
         special_balance = self._balance + 500
         if special_balance < self.value:
-            print('You do not have enought balance.\r')
+            print('You do not have enough balance.\r')
             return self.balance()
         self._balance -= self.value
         print(f'You have withdrawn ${value:.2f}')
@@ -44,7 +44,7 @@ class Current(Account):
 class Saving(Account):
     def withdraw(self, value: float):
         if self._balance < value:
-            print('You do not have enought balance.\r')
+            print('You do not have enough balance.\r')
             return self.balance()
         self._balance -= value
         print(f'You have withdrawn ${value:.2f}')
