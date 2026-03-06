@@ -1,8 +1,8 @@
-# E X E R C I S E # 9 : C H E S S S Q U A R E C O L O R
 
 def getChessSquareColor(column, row):
+    total = column + row
     if column and row in range(1, 9):
-        if column % 2 == row % 2:
+        if total % 2 == 0:
             return 'white'
         return 'black'
     return ''
